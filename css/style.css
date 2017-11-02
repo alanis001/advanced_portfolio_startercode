@@ -1,4 +1,8 @@
 /* Nav Bar CSS */
+.col-xs-1 {
+    background-color:OrangeRed;
+    border: solid;
+}
 
 
 /* Header CSS */
